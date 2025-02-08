@@ -2,8 +2,7 @@
 
 Gavin Josh Sacdalan Ortiz
 BS Computer Science
-https://cmsc100-
-laboratory.github.io/02-my-github-page-gavinjoshsacdalanortiz/
+https://cmsc-100-2s-ay2024-2025.github.io/exer-01-html-and-css-gavinjoshsacdalanortiz/
 
 Step 1: Accept the assignment we created specifically for you. After accepting it, you'll notice that a repository
 named 02-my-github-page-carlodb is automatically created. The repository name is structured with 02-my-
