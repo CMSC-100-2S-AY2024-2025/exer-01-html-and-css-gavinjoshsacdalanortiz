@@ -1,3 +1,5 @@
+
+
 body {
     font-family: "Trirong", serif;
     margin: 0;
@@ -5,6 +7,7 @@ body {
     background-color: white;
 }
 
+/* Header styles */
 header {
     background-color: #202020;
     color: white;
@@ -24,10 +27,9 @@ header {
     padding: 5px 20px;
     border: 1px solid white;
     border-radius: 5px;
-    
 }
 
-
+/* Footer styles */
 footer {
     background-color: #202020;
     color: white;
@@ -43,6 +45,7 @@ footer a{
     border-radius: 5px;
 }
 
+/* Tech Stack styles */
 .techstack{
     display: flex;
     flex-wrap: wrap;
@@ -55,6 +58,7 @@ footer a{
     height: 100px; 
 }
 
+/* Featured Project styles */
 .featuredproj{
     display: flex;
     flex-wrap: wrap;
@@ -62,12 +66,14 @@ footer a{
     gap: 50px;
 }
 
+/* Styles for text in body */
 .center_text{
     display:flex;
     justify-content: center;
     text-align: center;
 }
 
+/* Autobiography styles */
 .autobiography{
     display: flex;
     flex-wrap: wrap;
