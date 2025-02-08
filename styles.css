@@ -1,11 +1,12 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Trirong", serif;
     margin: 0;
     padding: 0;
+    background-color: white;
 }
 
 header {
-    background-color: darkolivegreen;
+    background-color: #202020;
     color: white;
     padding: 10px;
     text-align: center;
@@ -19,16 +20,16 @@ header {
 
 .header a {
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 5px 20px;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
     
 }
 
 
 footer {
-    background-color: darkolivegreen;
+    background-color: #202020;
     color: white;
     text-align: center;
     padding: 10px;
@@ -36,10 +37,46 @@ footer {
 
 footer a{
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 5px 20px;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
 }
 
+.techstack{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.techstack_image {
+    width: 100px; 
+    height: 100px; 
+}
+
+.featuredproj{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.center_text{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.autobiography{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.my_picture{
+    width: 400px; 
+    height: 400px; 
+}
 
